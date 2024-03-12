@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Spotify Login</string>
+    <string name="log_in_to_continue">Log in to continue.</string>
+    <string name="email_or_username">Email or username</string>
+    <string name="password">Password</string>
+    <string name="log_in">LOG IN</string>
+</resources>
